@@ -1,0 +1,7 @@
+- CREATING ENVIRONMENT:
+	- conda create -n chatbotProjectTestEnv python=3.10
+- ACTIVATE ENVIRONMENT:
+	- conda activate chatbotProjectTestEnv
+- INSTALLING PACKAGES:
+	-  pip install --quiet langchain langchain-community langchain-openai neo4j
+- Data base URL: https://demo.neo4jlabs.com:7473/browser/

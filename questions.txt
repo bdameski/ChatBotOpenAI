@@ -1,0 +1,9 @@
+Provide me information for health benefits mentioned in the news?
+What are the latest news for Google?
+What are the latest news for Gogle? -> use-case for LLM using its previous knowledge and detects Google. 
+        Then ask: I asked you for Gogle, it is not a typo! -> It will search the database by similarity (~2)
+What are the latest news for Amsterdam Green Member? -> use case for similar companies
+What are the latest news for Rode223? -> use case for non-existent organization - means the chatbot does not use external knowledge
+What are the latest news for organizations based in Russia?
+How many employees has Clarity Insights?
+Which organizations have over 30000 employees?
